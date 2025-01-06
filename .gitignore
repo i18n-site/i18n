@@ -1,0 +1,11 @@
+*.wasm
+.DS_Store
+Cargo.lock
+__pycache__/
+bun.lock
+bun.lockb
+lib/
+node_modules/
+out.txt
+pnpm-lock.yaml
+target/
